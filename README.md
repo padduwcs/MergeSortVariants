@@ -2,7 +2,7 @@
 DSA project
 ## How to run
 ```
-g++ *.cpp -o demo
+g++ main.cpp -o demo
 ```
 
 ```
