@@ -4,7 +4,6 @@ DSA project
 ```
 g++ main.cpp -o demo
 ```
-
 ```
 demo.exe
 ```
